@@ -1,0 +1,55 @@
+2025-10-19 18:06:07,123 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:06:07,124 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:06:07,132 [INFO]  * Restarting with stat
+2025-10-19 18:06:07,639 [WARNING]  * Debugger is active!
+2025-10-19 18:06:07,644 [INFO]  * Debugger PIN: 888-738-973
+2025-10-19 18:07:56,688 [INFO] File saved: uploads/5aa65aafe1e34922ba95fc4deb14a631\ec41709c9895478299d4787de632235c_atsu-ghost-of-yotei-5120x2880-22239.jpg
+2025-10-19 18:07:56,693 [INFO] 127.0.0.1 - - [19/Oct/2025 18:07:56] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:08:12,420 [INFO] 127.0.0.1 - - [19/Oct/2025 18:08:12] "GET /file/1 HTTP/1.1" 200 -
+2025-10-19 18:09:09,243 [INFO] 127.0.0.1 - - [19/Oct/2025 18:09:09] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 18:10:10,627 [INFO] File saved: uploads/9eed0c129d094b9aa4d9692bc52b4e0e\e8bf7256c3a24b5f93677e6a220ee138_nternet-meme-Hitler-vs-Stalin.png
+2025-10-19 18:10:10,629 [INFO] 127.0.0.1 - - [19/Oct/2025 18:10:10] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:10:29,341 [INFO] 127.0.0.1 - - [19/Oct/2025 18:10:29] "GET /file/2 HTTP/1.1" 200 -
+2025-10-19 18:11:01,754 [INFO] File saved: uploads/724002efaa6d45bba7b09c7d5c3d85df\a35c071a2a8b48a8a7b484f66bb4f471_ao0dY93_460s.jpg
+2025-10-19 18:11:01,756 [INFO] 127.0.0.1 - - [19/Oct/2025 18:11:01] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:12:06,299 [INFO] File saved: uploads/75243f10e0e4460883a8638bce349982\f7bb11f564fb40c2a9b14005e5f781ae_images.jpg
+2025-10-19 18:12:06,300 [INFO] 127.0.0.1 - - [19/Oct/2025 18:12:06] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:12:18,064 [INFO] File saved: uploads/3ab79e69eb944ea9a28938d8e76fa8cb\30c3f0015a8e44928ad16401e5b62ab9_8lm9ekuwf8c71.jpg
+2025-10-19 18:12:18,065 [INFO] 127.0.0.1 - - [19/Oct/2025 18:12:18] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:12:23,526 [INFO] 127.0.0.1 - - [19/Oct/2025 18:12:23] "GET /file/4 HTTP/1.1" 200 -
+2025-10-19 18:28:13,677 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:28:13,677 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:28:13,678 [INFO]  * Restarting with stat
+2025-10-19 18:28:14,309 [WARNING]  * Debugger is active!
+2025-10-19 18:28:14,312 [INFO]  * Debugger PIN: 888-738-973
+2025-10-19 18:28:45,292 [INFO] File deleted from storage: uploads/5aa65aafe1e34922ba95fc4deb14a631\ec41709c9895478299d4787de632235c_atsu-ghost-of-yotei-5120x2880-22239.jpg
+2025-10-19 18:28:45,301 [INFO] Record deleted: ID=1
+2025-10-19 18:28:45,301 [INFO] 127.0.0.1 - - [19/Oct/2025 18:28:45] "DELETE /file/1 HTTP/1.1" 200 -
+2025-10-19 18:28:48,420 [INFO] File deleted from storage: uploads/9eed0c129d094b9aa4d9692bc52b4e0e\e8bf7256c3a24b5f93677e6a220ee138_nternet-meme-Hitler-vs-Stalin.png
+2025-10-19 18:28:48,428 [INFO] Record deleted: ID=2
+2025-10-19 18:28:48,428 [INFO] 127.0.0.1 - - [19/Oct/2025 18:28:48] "DELETE /file/2 HTTP/1.1" 200 -
+2025-10-19 18:28:51,280 [INFO] File deleted from storage: uploads/724002efaa6d45bba7b09c7d5c3d85df\a35c071a2a8b48a8a7b484f66bb4f471_ao0dY93_460s.jpg
+2025-10-19 18:28:51,287 [INFO] Record deleted: ID=3
+2025-10-19 18:28:51,288 [INFO] 127.0.0.1 - - [19/Oct/2025 18:28:51] "DELETE /file/3 HTTP/1.1" 200 -
+2025-10-19 18:28:53,341 [INFO] File deleted from storage: uploads/75243f10e0e4460883a8638bce349982\f7bb11f564fb40c2a9b14005e5f781ae_images.jpg
+2025-10-19 18:28:53,348 [INFO] Record deleted: ID=4
+2025-10-19 18:28:53,349 [INFO] 127.0.0.1 - - [19/Oct/2025 18:28:53] "DELETE /file/4 HTTP/1.1" 200 -
+2025-10-19 18:28:55,730 [INFO] File deleted from storage: uploads/3ab79e69eb944ea9a28938d8e76fa8cb\30c3f0015a8e44928ad16401e5b62ab9_8lm9ekuwf8c71.jpg
+2025-10-19 18:28:55,737 [INFO] Record deleted: ID=5
+2025-10-19 18:28:55,738 [INFO] 127.0.0.1 - - [19/Oct/2025 18:28:55] "DELETE /file/5 HTTP/1.1" 200 -
+2025-10-19 18:28:57,826 [ERROR] Delete error: File not found
+2025-10-19 18:28:57,827 [INFO] 127.0.0.1 - - [19/Oct/2025 18:28:57] "[31m[1mDELETE /file/6 HTTP/1.1[0m" 400 -
+2025-10-19 18:29:00,971 [ERROR] Delete error: File not found
+2025-10-19 18:29:00,972 [INFO] 127.0.0.1 - - [19/Oct/2025 18:29:00] "[31m[1mDELETE /file/7 HTTP/1.1[0m" 400 -
+2025-10-19 18:30:39,670 [INFO] File saved: uploads/32b74f9d95bc4d54aa675b28078818bf\a401aead323044169893c7724240297f_e.jpg
+2025-10-19 18:30:39,673 [INFO] 127.0.0.1 - - [19/Oct/2025 18:30:39] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:30:52,786 [INFO] File saved: uploads/ae2f237da33544b2b4d64597664c9da9\e2b8473a87bd40a18fc89808d1f2c438_e.jpg
+2025-10-19 18:30:52,788 [INFO] 127.0.0.1 - - [19/Oct/2025 18:30:52] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 18:31:56,520 [INFO] File saved: uploads/a7d1ce6af9ed4143927016f84b346ce4\50ae5bec1039417b9cd366e4d6075352_e.jpg
+2025-10-19 18:31:56,522 [INFO] 127.0.0.1 - - [19/Oct/2025 18:31:56] "[35m[1mPOST /upload?file= HTTP/1.1[0m" 201 -
+2025-10-19 18:32:04,368 [INFO] File saved: uploads/8bbce6f4ec0940d89b1b9276a8b9859d\9dbb5e27094945e1b7e4c7846a5bede3_w.jpg
+2025-10-19 18:32:04,370 [INFO] 127.0.0.1 - - [19/Oct/2025 18:32:04] "[35m[1mPOST /upload?file= HTTP/1.1[0m" 201 -
+2025-10-19 18:32:10,503 [INFO] File saved: uploads/a2211803c64244c49411bbeabb2dd686\88798004dec04ebb82f8165754bc9bf8_q.jpg
+2025-10-19 18:32:10,504 [INFO] 127.0.0.1 - - [19/Oct/2025 18:32:10] "[35m[1mPOST /upload?file= HTTP/1.1[0m" 201 -
